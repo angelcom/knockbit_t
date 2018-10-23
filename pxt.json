@@ -1,0 +1,19 @@
+{
+    "name": "knockbit_t",
+    "version": "0.0.0",
+    "description": "Knock microbit with buletooth and piexl only,the tiny version.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "bluetooth": "*",
+        "neopixel-bluetoothallowed": "github:laboratoryforplayfulcomputation/pxt-neopixel-bluetoothallowed#v0.0.2"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
