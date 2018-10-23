@@ -1,6 +1,6 @@
 {
     "name": "knockbit_t",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Knock microbit with buletooth and piexl only,the tiny version.",
     "license": "MIT",
     "dependencies": {
